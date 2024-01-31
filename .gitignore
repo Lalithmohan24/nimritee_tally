@@ -1,0 +1,11 @@
+# Log files
+*.log
+
+# Jupyter files
+*.ipynb
+
+#migrations
+tally_process/tally_app/migrations/*
+tally_process/tally_app/__pycache__
+tally_process/tally_process/__pycache__
+tally_process/tally_app/utils/__pycache__
